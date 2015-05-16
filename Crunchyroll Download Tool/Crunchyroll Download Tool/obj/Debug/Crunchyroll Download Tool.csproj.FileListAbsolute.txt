@@ -1,0 +1,9 @@
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Debug\Crunchyroll Download Tool.exe.config
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Debug\Crunchyroll Download Tool.exe
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Debug\Crunchyroll Download Tool.pdb
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.csprojResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll_Download_Tool.Form1.resources
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll_Download_Tool.Properties.Resources.resources
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.csproj.GenerateResource.Cache
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.exe
+c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.pdb
