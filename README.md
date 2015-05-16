@@ -6,7 +6,7 @@ to help automate bulk downloads from the Crunchyroll website.
 <ol>
 <li>Download and setup the <a href = https://www.mediafire.com/?0jevs7wnhh0x0u6>Crunchyroll Downloader Toolkit DX</a> 
 (make sure that you are using Python 2.7.x and not Python 3.x).</li>
-<li>Place the application, xml, and batch file into the "Crunchyroll Downloader Toolkit DX" folder.</li>
+<li>Place the Download Tool application, xml, and start.bat file into the "Crunchyroll Downloader Toolkit DX" folder.</li>
 <li>Replace the login.py file found in the "crunchy-xml-decoder" folder with the one provided.</li>
 </ol>
 
