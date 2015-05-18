@@ -7,3 +7,6 @@ c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\
 c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.csproj.GenerateResource.Cache
 c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.exe
 c:\users\oliver\documents\visual studio 2013\Projects\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.pdb
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Debug\Crunchyroll Download Tool.exe.config
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.exe
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Debug\Crunchyroll Download Tool.pdb

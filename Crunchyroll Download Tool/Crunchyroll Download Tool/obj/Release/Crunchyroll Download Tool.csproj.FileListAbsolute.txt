@@ -1,0 +1,9 @@
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Release\Crunchyroll Download Tool.exe.config
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Release\Crunchyroll Download Tool.exe
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\bin\Release\Crunchyroll Download Tool.pdb
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Release\Crunchyroll Download Tool.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Release\Crunchyroll_Download_Tool.Form1.resources
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Release\Crunchyroll_Download_Tool.Properties.Resources.resources
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Release\Crunchyroll Download Tool.csproj.GenerateResource.Cache
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Release\Crunchyroll Download Tool.exe
+C:\Users\Oliver\Documents\GitHub\Crunchyroll-Download-Tool\Crunchyroll Download Tool\Crunchyroll Download Tool\obj\Release\Crunchyroll Download Tool.pdb

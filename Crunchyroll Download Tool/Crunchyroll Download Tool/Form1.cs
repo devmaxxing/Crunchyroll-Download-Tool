@@ -23,6 +23,7 @@ namespace Crunchyroll_Download_Tool
         private void addURL(object sender, EventArgs e)
         {
             downloadList.Items.Add(urlBox.Text);
+            urlBox.Text = "";
         }
 
         private void startDownload(object sender, EventArgs e)
@@ -73,6 +74,14 @@ namespace Crunchyroll_Download_Tool
             catch (Exception objException)
             {
                 Console.WriteLine(objException);
+            }
+        }
+
+        private void RemoveSelection(object sender, EventArgs e)
+        {
+            if (downloadList.SelectedItem != null)
+            {
+                downloadList.Items.Remove(downloadList.SelectedItem);
             }
         }
     }
